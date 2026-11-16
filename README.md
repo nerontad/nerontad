@@ -19,6 +19,14 @@
 </p>
 
 <p align="center">
+  <picture><img src="assets/titulo-stats.svg" width="100%" alt="Estadísticas" /></picture>
+</p>
+
+<p align="center">
+  <picture><img src="https://streak-stats.demolab.com?user=nerontad&amp;background=1b1433&amp;border=f4e4c1&amp;stroke=5a3a7e&amp;ring=f08a3c&amp;fire=ffd166&amp;currStreakNum=f4e4c1&amp;sideNums=f4e4c1&amp;currStreakLabel=f08a3c&amp;sideLabels=f08a3c&amp;dates=c0477a&amp;locale=es&amp;border_radius=0" width="70%" alt="Racha de contribuciones en GitHub" /></picture>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/diego-osorio-m%C3%A9ndez-99975a416/"><img src="assets/contacto.svg" width="100%" alt="Contacto — ¿Hablamos? Escríbeme por LinkedIn." /></a>
 </p>
 
