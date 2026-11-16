@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <picture><img src="arte/proyecto-pyrosense.svg" width="100%" alt="Proyectos — Pyrosense: detección temprana de incendios. Visión por computadora con YOLOv8 y sensores IoT (ESP8266, DHT11 y MQ-2) que envían datos por MQTT. Backend en FastAPI + MySQL, frontend en React y avisos por Telegram con un clip de video del evento." /></picture>
+  <picture><img src="arte/proyectos.svg" width="100%" alt="Proyectos — Pyrosense: detección temprana de incendios. Visión por computadora con YOLOv8 y sensores IoT (ESP8266, DHT11 y MQ-2) que envían datos por MQTT. Backend en FastAPI + MySQL, frontend en React y avisos por Telegram con un clip de video del evento. Farol: roguelike de póker para PSP. Juego casero escrito en C: manos de póker, amuletos que multiplican la puntuación y ocho mesas de rivales, con todo el arte y el sonido generados por código." /></picture>
 </p>
 
 <p align="center">
