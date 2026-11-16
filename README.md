@@ -19,6 +19,10 @@
 </p>
 
 <p align="center">
+  <picture><img src="assets/trayectoria.svg" width="100%" alt="Trayectoria — Práctica profesional: Marsoft (completada). Certificados: IT Essentials, Cisco, agosto de 2023; CCNA: Introduction to Networks, Cisco, julio de 2025." /></picture>
+</p>
+
+<p align="center">
   <picture><img src="assets/titulo-stats.svg" width="100%" alt="Estadísticas" /></picture>
 </p>
 
