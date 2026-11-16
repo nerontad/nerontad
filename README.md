@@ -15,12 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nerontad/Pyrosense"><img src="assets/pyrosense.svg" width="100%" alt="Proyectos — Pyrosense: detección temprana de incendios. Visión por computadora con YOLOv8 y sensores IoT (ESP8266, DHT11 y MQ-2) que envían datos por MQTT. Backend en FastAPI + MySQL, frontend en React y avisos por Telegram con un clip de video del evento." /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nerontad/Pyrosense"><img src="assets/btn-repo.svg" width="32%" alt="Repositorio de Pyrosense" /></a>
-  <a href="https://pyrosense.vercel.app/"><img src="assets/btn-demo.svg" width="32%" alt="Demo en vivo de Pyrosense" /></a>
+  <picture><img src="assets/proyecto-pyrosense.svg" width="100%" alt="Proyectos — Pyrosense: detección temprana de incendios. Visión por computadora con YOLOv8 y sensores IoT (ESP8266, DHT11 y MQ-2) que envían datos por MQTT. Backend en FastAPI + MySQL, frontend en React y avisos por Telegram con un clip de video del evento." /></picture>
 </p>
 
 <p align="center">
