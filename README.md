@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <picture><img src="arte/inventario.svg" width="100%" alt="Inventario — Lenguajes: TypeScript, JavaScript, C#, Python, Java, HTML, CSS. Frameworks y plataformas: .NET, ASP.NET Core, React, Next.js. Bases de datos: MySQL, SQL Server, PostgreSQL, MongoDB." /></picture>
+  <picture><img src="arte/inventario.svg" width="100%" alt="Inventario — Lenguajes: TypeScript, JavaScript, C#, Python, Java, HTML, CSS; aprendiendo: C. Frameworks y plataformas: .NET, ASP.NET Core, React, Next.js. Bases de datos: MySQL, SQL Server, PostgreSQL, MongoDB." /></picture>
 </p>
 
 <p align="center">
