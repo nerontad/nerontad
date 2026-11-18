@@ -13,8 +13,8 @@
 <picture><img src="arte/t-proyectos.svg" width="100%" alt="Proyectos" /></picture>
 
 <p align="center">
-  <picture><img src="arte/p-pyrosense.svg" width="49%" alt="Pyrosense — detección de incendios con visión por computadora (YOLOv8) y sensores IoT por MQTT, con avisos por Telegram. FastAPI, MySQL y React." /></picture>
-  <picture><img src="arte/p-farol.svg" width="49%" alt="Farol — roguelike de póker para PSP escrito en C: manos de póker, amuletos que multiplican la puntuación y ocho mesas de rivales, con arte y sonido generados por código." /></picture>
+  <a href="https://github.com/nerontad/Pyrosense"><img src="arte/p-pyrosense.svg" width="49%" alt="Pyrosense — detección de incendios con visión por computadora (YOLOv8) y sensores IoT por MQTT, con avisos por Telegram. FastAPI, MySQL y React." /></a>
+  <a href="https://github.com/nerontad/Farol"><img src="arte/p-farol.svg" width="49%" alt="Farol — roguelike de póker para PSP escrito en C: manos de póker, amuletos que multiplican la puntuación y ocho mesas de rivales, con arte y sonido generados por código." /></a>
 </p>
 
 <picture><img src="arte/t-stats.svg" width="100%" alt="Estadísticas" /></picture>
