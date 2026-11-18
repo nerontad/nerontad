@@ -1,0 +1,4 @@
+# Imágenes y generador siempre con saltos de línea LF: así regenerar arte/
+# en Windows no marca como cambiados archivos que no cambiaron.
+*.svg text eol=lf
+*.js text eol=lf
